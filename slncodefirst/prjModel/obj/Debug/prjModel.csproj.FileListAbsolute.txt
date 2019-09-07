@@ -1,0 +1,10 @@
+D:\da\slncodefirst\prjModel\bin\Debug\prjModel.dll.config
+D:\da\slncodefirst\prjModel\bin\Debug\prjModel.dll
+D:\da\slncodefirst\prjModel\bin\Debug\prjModel.pdb
+D:\da\slncodefirst\prjModel\bin\Debug\EntityFramework.dll
+D:\da\slncodefirst\prjModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\da\slncodefirst\prjModel\bin\Debug\EntityFramework.xml
+D:\da\slncodefirst\prjModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\da\slncodefirst\prjModel\obj\Debug\prjModel.csprojResolveAssemblyReference.cache
+D:\da\slncodefirst\prjModel\obj\Debug\prjModel.dll
+D:\da\slncodefirst\prjModel\obj\Debug\prjModel.pdb
